@@ -19,7 +19,7 @@ I am a developer and AI researcher focused on high-performance machine learning 
 ---
 
 ### 📫 Connect with Me
-- [cite_start]📧 [in.anirudh@gmail.com](mailto:in.anirudh@gmail.com)
+- 📧 [in.anirudh@gmail.com](mailto:in.anirudh@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/jnanirudh)
 
 *"Turning data into decisions and code into impact."*
