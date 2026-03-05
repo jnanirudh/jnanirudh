@@ -7,9 +7,9 @@ I am a developer and AI researcher focused on high-performance machine learning 
 ---
 
 ### 🛠️ Technical Toolkit
-- [cite_start]**Languages:** Python, Java (Spring Boot), SQL, JavaScript
-- [cite_start]**AI/ML:** TensorFlow, Keras, NumPy, CUDA, Computer Vision 
-- [cite_start]**Developer Tools:** FastAPI, Node.js, Git, Linux
+- **Languages:** Python, Java (Spring Boot), SQL, JavaScript
+- **AI/ML:** TensorFlow, Keras, NumPy, CUDA, Computer Vision 
+- **Developer Tools:** FastAPI, Node.js, Git, Linux
 
 ---
 
@@ -20,6 +20,6 @@ I am a developer and AI researcher focused on high-performance machine learning 
 
 ### 📫 Connect with Me
 - [cite_start]📧 [in.anirudh@gmail.com](mailto:in.anirudh@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/jnanirudh) |
+- 🔗 [LinkedIn](https://linkedin.com/in/jnanirudh)
 
 *"Turning data into decisions and code into impact."*
